@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 
-I'm currently learning DART
+I'm currently learning Angular,Javascript and Dart
 
 
 ## 🌐 Socials:
